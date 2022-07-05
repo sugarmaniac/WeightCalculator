@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/app_nav"
+    app:startDestination="@id/characterSelect">
+
+    <fragment
+        android:id="@+id/characterSelect"
+        android:name="com.sugarmaniac.a5eweightcalculator.ui.characterselect.CharacterSelect"
+        android:label="fragment_character_select"
+        tools:layout="@layout/fragment_character_select" >
+        <action
+            android:id="@+id/action_characterSelect_to_currentCharacterList"
+            app:destination="@id/currentCharacterList" />
+        <action
+            android:id="@+id/action_characterSelect_to_newCharacter"
+            app:destination="@id/newCharacter" />
+        <action
+            android:id="@+id/action_characterSelect_to_characterDetails"
+            app:destination="@id/characterDetails" />
+    </fragment>
+    <fragment
+        android:id="@+id/currentCharacterList"
+        android:name="com.sugarmaniac.a5eweightcalculator.ui.characterselect.CurrentCharacterList"
+        android:label="fragment_current_character_list"
+        tools:layout="@layout/fragment_current_character_list" >
+        <action
+            android:id="@+id/action_currentCharacterList_to_characterDetails"
+            app:destination="@id/characterDetails" />
+    </fragment>
+    <fragment
+        android:id="@+id/newCharacter"
+        android:name="com.sugarmaniac.a5eweightcalculator.ui.characterselect.NewCharacter"
+        android:label="fragment_new_character"
+        tools:layout="@layout/fragment_new_character" >
+        <action
+            android:id="@+id/action_newCharacter_to_characterDetails"
+            app:destination="@id/characterDetails" />
+    </fragment>
+    <fragment
+        android:id="@+id/characterDetails"
+        android:name="com.sugarmaniac.a5eweightcalculator.ui.characterselect.CharacterDetails"
+        android:label="fragment_character_details"
+        tools:layout="@layout/fragment_character_details" />
+</navigation>

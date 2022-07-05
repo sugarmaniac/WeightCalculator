@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.12239583333333333" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2465" />
+        <entry key="app/src/main/res/drawable/border_drawable.xml" value="0.241" />
+        <entry key="app/src/main/res/drawable/ic_icon_minus.xml" value="0.2115" />
+        <entry key="app/src/main/res/drawable/ic_icon_plus.xml" value="0.2115" />
+        <entry key="app/src/main/res/drawable/main_button_bg.xml" value="0.18947052001953124" />
+        <entry key="app/src/main/res/font/ocr.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/activity_just_one.xml" value="0.1859375" />
+        <entry key="app/src/main/res/layout/fragment_character_details.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_character_select.xml" value="0.22395833333333334" />
+        <entry key="app/src/main/res/layout/fragment_current_character_list.xml" value="0.2760416666666667" />
+        <entry key="app/src/main/res/layout/fragment_new_character.xml" value="0.2760416666666667" />
+        <entry key="app/src/main/res/layout/item_select_layout.xml" value="0.39050639936119125" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

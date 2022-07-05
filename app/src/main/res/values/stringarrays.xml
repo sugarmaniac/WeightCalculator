@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="integerarray">
+        <item>8</item>
+        <item>10</item>
+        <item>13</item>
+        <item>12</item>
+        <item>20</item>
+        <item>45</item>
+        <item>20</item>
+        <item>40</item>
+        <item>40</item>
+        <item>55</item>
+        <item>60</item>
+        <item>65</item>
+        <item>6</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>2</item>
+        <item>4</item>
+        <item>1</item>
+        <item>5</item>
+        <item>2</item>
+        <item>70</item>
+        <item>2</item>
+        <item>7</item>
+        <item>0</item>
+        <item>3</item>
+        <item>5</item>
+        <item>5</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>10</item>
+        <item>0</item>
+        <item>25</item>
+        <item>12</item>
+        <item>3</item>
+        <item>4</item>
+        <item>6</item>
+        <item>4</item>
+        <item>2</item>
+        <item>5</item>
+        <item>0</item>
+        <item>0</item>
+        <item>4</item>
+        <item>1</item>
+        <item>4</item>
+        <item>1</item>
+        <item>4</item>
+        <item>3</item>
+        <item>10</item>
+        <item>3</item>
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>25</item>
+        <item>0</item>
+        <item>0</item>
+        <item>4</item>
+        <item>25</item>
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+        <item>6</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>10</item>
+        <item>0</item>
+        <item>0</item>
+        <item>7</item>
+        <item>10</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>35</item>
+        <item>2</item>
+        <item>4</item>
+        <item>10</item>
+        <item>5</item>
+        <item>1</item>
+        <item>3</item>
+        <item>0</item>
+        <item>5</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>3</item>
+        <item>5</item>
+        <item>1</item>
+        <item>20</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>1</item>
+        <item>8</item>
+        <item>9</item>
+        <item>5</item>
+        <item>6</item>
+        <item>6</item>
+        <item>5</item>
+        <item>8</item>
+        <item>5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>8</item>
+        <item>5</item>
+        <item>3</item>
+        <item>8</item>
+        <item>10</item>
+        <item>5</item>
+        <item>5</item>
+        <item>3</item>
+        <item>5</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>3</item>
+        <item>6</item>
+        <item>3</item>
+        <item>10</item>
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+        <item>1</item>
+        <item>2</item>
+        <item>1</item>
+        <item>10</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>4</item>
+        <item>4</item>
+        <item>2</item>
+        <item>3</item>
+        <item>0</item>
+        <item>5</item>
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+        <item>4</item>
+        <item>2</item>
+        <item>6</item>
+        <item>7</item>
+        <item>6</item>
+        <item>6</item>
+        <item>6</item>
+        <item>3</item>
+        <item>10</item>
+        <item>4</item>
+        <item>18</item>
+        <item>2</item>
+        <item>3</item>
+        <item>2</item>
+        <item>4</item>
+        <item>2</item>
+        <item>2</item>
+        <item>3</item>
+        <item>1</item>
+        <item>3</item>
+        <item>18</item>
+        <item>2</item>
+        <item>3</item>
+    </integer-array>
+
+    <string-array name="deneme">
+        <item>Padded armor</item>
+        <item>Leather armor</item>
+        <item>Studded leather armor</item>
+        <item>Hide armor</item>
+        <item>Chain shirt</item>
+        <item>Scale mail</item>
+        <item>Breastplate</item>
+        <item>Half plate</item>
+        <item>Ring mail</item>
+        <item>Chain mail</item>
+        <item>Splint mail</item>
+        <item>Plate mail</item>
+        <item>Shield</item>
+        <item>Abacus</item>
+        <item>Acid (vial)</item>
+        <item>Alchemists fire (flask)</item>
+        <item>Arrows (20)</item>
+        <item>Blowgun needles (50)</item>
+        <item>Crossbow bolts (20)</item>
+        <item>Sling bullets (20)</item>
+        <item>Antitoxin (vial) </item>
+        <item>Crystal (Arcane focus)</item>
+        <item>Orb (Arcane focus)</item>
+        <item>Rod (Arcane focus)</item>
+        <item>Staff (Arcane focus)</item>
+        <item>Wand (Arcane focus)</item>
+        <item>Backpack</item>
+        <item>Ball bearings(bag of 1,000)</item>
+        <item>Barrel</item>
+        <item>Basket</item>
+        <item>Bedroll</item>
+        <item>Bell</item>
+        <item>Blanket</item>
+        <item>Block and tackle</item>
+        <item>Book</item>
+        <item>Bottle, glass</item>
+        <item>Bucket</item>
+        <item>Caltrops (bag of 20)</item>
+        <item>Candle</item>
+        <item>Case, crossbow bolt</item>
+        <item>Case, map or scroll</item>
+        <item>Chain (10 feet)</item>
+        <item>Chalk (1 piece)</item>
+        <item>Chest</item>
+        <item>Climbers kit</item>
+        <item>Clothes, common</item>
+        <item>Clothes, costume</item>
+        <item>Clothes, fine</item>
+        <item>Clothes, travelers</item>
+        <item>Component pouch</item>
+        <item>Crowbar</item>
+        <item>Sprig of mistletoe(Druidic focus)</item>
+        <item>Totem (Druidic focus)</item>
+        <item>Wooden staff (Druidic focus)</item>
+        <item>Yew wand (Druidic focus)</item>
+        <item>Fishing tackle</item>
+        <item>Flask or tankard</item>
+        <item>Grappling hook</item>
+        <item>Hammer</item>
+        <item>Hammer, sledge</item>
+        <item>Healer’s kit</item>
+        <item>Amulet (Holy symbol)</item>
+        <item>Emblem (Holy symbol)</item>
+        <item>Reliquary (Holy symbol)</item>
+        <item>Holy water (flask)</item>
+        <item>Hourglass</item>
+        <item>Hunting trap</item>
+        <item>Ink (1 ounce bottle)</item>
+        <item>Ink pen</item>
+        <item>Jug or pitcher</item>
+        <item>Ladder (10-foot)</item>
+        <item>Lamp</item>
+        <item>Lantern, bullseye</item>
+        <item>Lantern, hooded</item>
+        <item>Lock</item>
+        <item>Magnifying glass</item>
+        <item>Manacles</item>
+        <item>Mess kit</item>
+        <item>Mirror, steel</item>
+        <item>Oil (flask)</item>
+        <item>Paper (one sheet)</item>
+        <item>Parchment (one sheet)</item>
+        <item>Perfume (vial)</item>
+        <item>Pick, miner’s</item>
+        <item>Piton</item>
+        <item>Poison, basic (vial)</item>
+        <item>Pole (10-foot)</item>
+        <item>Pot, iron</item>
+        <item>Potion of healing</item>
+        <item>Pouch</item>
+        <item>Quiver</item>
+        <item>Ram, portable</item>
+        <item>Rations (1 day)</item>
+        <item>Robes</item>
+        <item>Rope, hempen (50 feet)</item>
+        <item>Rope, silk (50 feet)</item>
+        <item>Sack</item>
+        <item>Scale, merchants</item>
+        <item>Sealing wax</item>
+        <item>Shovel</item>
+        <item>Signal whistle</item>
+        <item>Signet ring</item>
+        <item>Soap</item>
+        <item>Spellbook</item>
+        <item>Spikes, iron (10)</item>
+        <item>Spyglass</item>
+        <item>Tent, two-person</item>
+        <item>Tinderbox</item>
+        <item>Torch</item>
+        <item>Vial</item>
+        <item>Waterskin (full)</item>
+        <item>Whetstone</item>
+        <item>Alchemists supplies</item>
+        <item>Brewers supplies</item>
+        <item>Calligraphers supplies</item>
+        <item>Carpenters tools</item>
+        <item>Cartographers tools</item>
+        <item>Cobblers tools</item>
+        <item>Cooks utensils</item>
+        <item>Glassblowers tools</item>
+        <item>Jewelers tools</item>
+        <item>Leatherworkers tools</item>
+        <item>Masons tools</item>
+        <item>Painters supplies</item>
+        <item>Potters tools</item>
+        <item>Smiths tools</item>
+        <item>Tinkers tools</item>
+        <item>Weavers tools</item>
+        <item>Woodcarvers tools</item>
+        <item>Disguise kit</item>
+        <item>Forgery kit</item>
+        <item>Dice set (Gaming set)</item>
+        <item>Dragonchess set (Gaming set)</item>
+        <item>Playing card set (Gaming set)</item>
+        <item>Three-Dragon Ante set (Gaming set)</item>
+        <item>Herbalism kit </item>
+        <item>Bagpipes (Musical instrument)</item>
+        <item>Drum (Musical instrument)</item>
+        <item>Dulcimer (Musical instrument)</item>
+        <item>Flute (Musical instrument)</item>
+        <item>Lute (Musical instrument)</item>
+        <item>Lyre (Musical instrument)</item>
+        <item>Horn (Musical instrument)</item>
+        <item>Pan flute (Musical instrument)</item>
+        <item>Shawm (Musical instrument)</item>
+        <item>Viol (Musical instrument)</item>
+        <item>Navigators tools</item>
+        <item>Poisoners kit</item>
+        <item>Thieves tools</item>
+        <item>Club</item>
+        <item>Dagger</item>
+        <item>Greatclub</item>
+        <item>Handaxe</item>
+        <item>javelin</item>
+        <item>Light hammer</item>
+        <item>Mace </item>
+        <item>Quarterstaff</item>
+        <item>Sickle</item>
+        <item>Spear</item>
+        <item>Unarmed strike</item>
+        <item>Crossbow, light</item>
+        <item>Dart</item>
+        <item>Shortbow</item>
+        <item>Sling</item>
+        <item>Battleaxe</item>
+        <item>Flail</item>
+        <item>Glaive</item>
+        <item>Greataxe</item>
+        <item>Greatsword</item>
+        <item>Halberd</item>
+        <item>Lance</item>
+        <item>Longsword</item>
+        <item>Maul</item>
+        <item>Morningstar</item>
+        <item>Pike</item>
+        <item>Rapier</item>
+        <item>Scimitar</item>
+        <item>Shortsword</item>
+        <item>Trident</item>
+        <item>War pick</item>
+        <item>Warhammer</item>
+        <item>Whip</item>
+        <item>Blowgun</item>
+        <item>Crossbow, hand</item>
+        <item>Crossbow, heavy</item>
+        <item>Longbow </item>
+        <item>Net</item>
+    </string-array>
+
+    
+</resources>
