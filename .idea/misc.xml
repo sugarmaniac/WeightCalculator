@@ -11,6 +11,7 @@
         <entry key="app/src/main/res/drawable/main_button_bg.xml" value="0.18947052001953124" />
         <entry key="app/src/main/res/font/ocr.xml" value="0.23802083333333332" />
         <entry key="app/src/main/res/layout/activity_just_one.xml" value="0.1859375" />
+        <entry key="app/src/main/res/layout/character_list_layout.xml" value="0.375" />
         <entry key="app/src/main/res/layout/fragment_character_details.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_character_select.xml" value="0.22395833333333334" />
         <entry key="app/src/main/res/layout/fragment_current_character_list.xml" value="0.2760416666666667" />

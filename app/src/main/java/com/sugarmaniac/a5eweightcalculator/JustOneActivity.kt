@@ -17,6 +17,7 @@ class JustOneActivity : AppCompatActivity() {
         setContentView(R.layout.activity_just_one)
 
         initAds()
+//        viewModel.initCharacterDao(context = this)
     }
 
     private fun initAds() {

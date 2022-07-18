@@ -1,6 +1,7 @@
 plugins {
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
+    id "org.jetbrains.kotlin.kapt"
 }
 
 android {
@@ -54,7 +55,7 @@ dependencies {
     implementation "androidx.room:room-runtime:$room_version"
     annotationProcessor "androidx.room:room-compiler:$room_version"
     implementation "androidx.room:room-ktx:$room_version"
-//    kapt "androidx.room:room-compiler:$room_version"
+    kapt "androidx.room:room-compiler:$room_version"
     androidTestImplementation "androidx.room:room-testing:$room_version"
 
     // Kotlin
@@ -78,6 +79,10 @@ dependencies {
 
     //circular image view
     implementation 'de.hdodenhof:circleimageview:3.1.0'
+
+    //GSON for TypeConvert
+    implementation 'com.google.code.gson:gson:2.8.9'
+
 
 
 
